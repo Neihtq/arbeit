@@ -1,0 +1,8 @@
+{
+    "name"  : "hans",
+    "alter" : "22",
+    "team"  : {
+        "manager" : "peter",
+        "op"      : "bmw"
+    }
+}
